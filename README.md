@@ -1,5 +1,3 @@
-# Vearance
-
 [ bio ]
 - 🎓 learning *compsci*
 - 💻 procastinate addict, aspiring quant dev<br><br>
