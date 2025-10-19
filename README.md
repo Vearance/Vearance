@@ -1,6 +1,6 @@
 [ bio ]
 - 🎓 learning *compsci*
-- 💻 procastinate addict, aspiring quant dev<br><br>
+- 💻 procastination addict, aspiring quant dev<br><br>
 
 [ personality ]
 - i'm deep fried, cooked is an understatement
