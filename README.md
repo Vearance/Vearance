@@ -1,5 +1,5 @@
 [ bio ]
-- 🎓 learning *compsci*
+- 🎓 learning *cs*
 - 💻 procastination addict, aspiring quant dev<br><br>
 
 [ about me ]
