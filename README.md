@@ -1,6 +1,6 @@
 [ bio ]
 - 🎓 learning *cs*
-- 💻 procastination addict, aspiring quant dev<br><br>
+- 💻 procrastination addict, aspiring quant dev<br><br>
 
 [ about me ]
 - i'm deep fried, cooked is an understatement (yes, it's a brimstone reference)
