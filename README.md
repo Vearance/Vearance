@@ -1,5 +1,5 @@
 [ bio ]
-- sophomore
+- cs sophomore @ [ITB](itb.ac.id/en)
 - aspiring quant dev
 - currently dabbling in self-hosting
 
